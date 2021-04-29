@@ -28,5 +28,6 @@ Column names are  explained below.
 * prop_top_kill_N: Proportion of full_kill trees per plot in temrs of tree count.
 * seedling_composition: Main forest type associated with the seedling population in each plot. One of CTR (cool-temperate rainforest), TOF (Tall open forest), MF (Cool-temperate mixed forest), DSF (dry sclerophyll forest), US (understorey species), and None (no seedlings in the plot).
 
-
+Cite the data:
+[![DOI](https://zenodo.org/badge/362739469.svg)](https://zenodo.org/badge/latestdoi/362739469)
 
