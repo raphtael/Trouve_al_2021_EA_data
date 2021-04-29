@@ -1,5 +1,7 @@
 # Trouve_al_2021_EA_data
-Data accompanying the manuscript `The effect of species, size, and fire intensity on tree mortality within a catastrophic bushfire complex' published in Ecological Applications.
+
+This repository contains data used in the statistical analyses of the paper "The effect of species, size, and fire intensity on tree mortality within a catastrophic bushfire complex" by Trouve et al. (2021), published in Ecological Applications.
+The data has been made available for reproducibility purposes, as required by Ecological Applications. 
 
 The tree_mortality_status.csv file contains tree-level inventory data necessary to run the mortality model (Eq. 1) presented in the manuscript. Column names are  explained below.
 
