@@ -7,8 +7,7 @@ The tree_mortality_status.csv file contains tree-level inventory data necessary 
 * species: Species name associated with each measured tree.
 * spp_code, Species code associated with each measured tree.
 * dbh_cm: Diameter at breast height associated with each measured tree.
-* top_kill: Binary variable indicating whether the tree is top-killed or not (0: alive, 1: top-killed). We distinguished between trees that had been top-killed but were 
-* resprouting from the base and those that were completely killed (i.e., no evidence of basal resprouting). The former was recorded as top-kill; the latter as full-kill.
+* top_kill: Binary variable indicating whether the tree is top-killed or not (0: alive, 1: top-killed). We distinguished between trees that had been top-killed but were resprouting from the base and those that were completely killed (i.e., no evidence of basal resprouting). The former was recorded as top-kill, the latter as full-kill.
 * full_kill: Binary variable indicating whether the tree is full-killed or not (0: alive or top-killed, 1: full-killed).
 
 The plot_metadata.csv file contains plot-level metadata associated with each plot as well as some information on the estimated mean relative latent fire intensity and regeneration mesurements per plot.
