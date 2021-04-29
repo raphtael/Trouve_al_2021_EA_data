@@ -1,54 +1,54 @@
-plot_id,location,site,date,easting,northing,elevation,aspect,direction,slope,forest_type,fire_intensity,prop_top_kill_BA,prop_top_kill_N,seedling_composition
-1,Beeches rainforest ,Beeches,31/10/12,396843,5850577,754,180,S,38,Rainforest,0.29,0.59,0.914,Mixed
-2,Cumberland trail,Cambarville,14/11/12,401598,5842630,915,260,N,8,Open forest,0.2,0.14,0.803,TOF
-3,Camberville road,Cambarville,14/11/12,401923,5842432,914,150,SE,5,Open forest,0.24,0.184,0.643,US
-4,Cumberland trail,Cambarville,14/11/12,401241,5843036,918,110,E,3,Mixed,0.08,0.036,0.125,None
-5,Mt Margaret road,Mt Margaret,15/11/12,395805,5853069,1064,140,SE,32,Rainforest,0.68,1,1,Mixed
-6,Mt Margaret road,Mt Margaret,15/11/12,394706,5854210,1058,290,NW,18,Mixed,0.67,1,1,Mixed
-7,Cumberland trail,Cambarville,19/11/12,401002,5842745,913,330,NW,2,Mixed,0.28,0.301,0.865,TOF
-8,Road 15 off Acheron Way,Acheron,20/11/12,390123,5831212,736,160,S,20,Mixed,0.09,0.072,0.111,None
-9,Road 15 off Acheron Way,Acheron,20/11/12,389778,5831093,733,200,S,16,Rainforest,0.05,0.047,0.091,RF
-10,Camberville road,Cambarville,20/11/12,401721,5842584,921,160,S,8,Open forest,0.83,1,1,TOF
-11,Friends Nature trail,Cath Ranges,21/11/12,391201,5861663,424,270,W,3,Schlerophyll,0.15,0.28,0.314,US
-12,Friends Nature trail,Cath Ranges,21/11/12,391098,5861966,409,260,W,2,Schlerophyll,0.16,0.134,0.34,US
-13,Lowerson trail,Cath Ranges,21/11/12,391325,5862545,452,330,N,22,Schlerophyll,0.17,0.226,0.4,US
-14,Beeches rainforest ,Beeches,22/11/12,397334,5850235,843,160,S,22,Mixed,0.81,1,1,TOF
-15,Beeches rainforest ,Beeches,22/11/12,396845,5850417,770,90,E,34,Rainforest,0.13,0.307,0.341,None
-16,Cumberland trail,Cambarville,26/11/12,400867,5842121,879,250,W,4,Rainforest,0.35,0.262,0.95,Mixed
-17,Cumberland trail,Cambarville,26/11/12,400904,5842322,911,230,SW,12,Mixed,0.83,1,1,TOF
-18,Lowerson trail,Cath Ranges,27/11/12,390585,5862262,395,220,SW,13,Schlerophyll,0.28,0.178,0.433,US
-19,Red Hill trail,Marysville,27/11/12,389394,5848423,430,80,E,32,Schlerophyll,0.71,0.759,0.8,DSF
-20,Jawbone trail,Cath Ranges,28/11/12,389263,5862082,447,280,E,56,Schlerophyll,0.22,0.06,0.306,US
-21,St Bernards trail,Cath Ranges,28/11/12,389765,5862438,416,220,SW,29,Schlerophyll,0.15,0.078,0.15,US
-22,St Bernards trail,Cath Ranges,28/11/12,389511,5862425,451,20,N,37,Schlerophyll,0.89,0.842,0.895,DSF
-23,St Bernards trail,Cath Ranges,28/11/12,389370,5862190,466,50,NE,30,Schlerophyll,0.67,0.546,0.738,DSF
-24,Acheron Way,Acheron,29/11/12,383670,5841839,443,20,N,13,Schlerophyll,0.48,0.143,0.371,US
-25,Acheron Way,Acheron,29/11/12,386944,5833553,510,200,S,5,Open forest,0.29,0.39,0.725,US
-26,Acheron Way,Acheron,3/12/2012,384505,5840068,412,60,NE,22,Open forest,0.21,0.186,0.638,US
-27,Mt Margaret road,Mt Margaret,3/12/2012,396707,5852737,1117,200,S,8,Open forest,0.78,1,1,TOF
-28,Cumberland trail,Cambarville,5/12/2012,401394,5842386,886,250,W,2,Mixed,0.83,1,1,TOF
-29,Cumberland trail,Cambarville,5/12/2012,400958,5842214,872,160,S,1,Rainforest,0.88,1,1,TOF
-30,Cumberland trail,Cambarville,5/12/2012,401000,5842611,883,80,E,12,Rainforest,0.36,0.394,0.927,TOF
-31,Beeches rainforest ,Beeches,12/12/2012,396577,5850868,754,230,SW,35,Rainforest,0.56,0.823,0.982,TOF
-32,Beeches rainforest ,Beeches,12/12/2012,396683,5850771,803,180,S,4,Rainforest,0.13,0.834,0.386,US
-33,Mt Margaret road,Mt Margaret,13/12/12,396998,5852803,1109,210,S,15,Open forest,0.9,1,1,TOF
-34,Red Hill trail,Marysville,13/12/12,389381,5848335,484,220,SW,28,Schlerophyll,0.42,0.468,0.689,DSF
-35,Acheron Way,Acheron,17/12/12,384707,5839650,459,40,NE,14,Open forest,0.32,0.162,0.766,US
-36,Red Hill trail,Marysville,17/12/12,389439,5848760,460,270,W,28,Schlerophyll,0.6,0.335,0.545,DSF
-37,Beeches rainforest ,Beeches,18/12/12,398915,5850734,815,260,W,28,Mixed,0.83,1,1,US
-38,Beeches rainforest ,Beeches,18/12/12,397143,5850427,840,220,SW,27,Mixed,0.73,1,1,TOF
-39,Mt Margaret road,Mt Margaret,19/12/12,396287,5852925,1092,180,S,22,Mixed,0.67,1,1,TOF
-40,Red Hill trail,Marysville,19/12/12,389769,5848481,514,100,E,24,Schlerophyll,0.59,0.439,0.615,DSF
-41,Red Hill trail,Marysville,19/12/12,390268,5848731,395,350,N,1,Schlerophyll,0.38,0.372,0.667,US
-42,Camberville road,Cambarville,20/12/12,401336,5842774,888,300,NW,4,Open forest,0.21,0.149,0.643,TOF
-43,Camberville road,Cambarville,20/12/12,401510,5842533,858,210,SW,7,Open forest,0.18,0.167,0.569,US
-44,Acheron Way,Acheron,27/12/12,385066,5838591,439,70,E,32,Open forest,0.24,0.066,0.595,US
-45,Acheron Way,Acheron,27/12/12,385296,5838177,440,50,NE,29,Open forest,0.24,0.138,0.587,US
-46,Friends Nature trail,Cath Ranges,28/12/12,390652,5861843,380,70,E,2,Schlerophyll,0.3,0.249,0.558,US
-47,Lowerson trail,Cath Ranges,28/12/12,391741,5862614,555,210,S,25,Schlerophyll,0.45,0.313,0.459,DSF
-48,Lowerson trail,Cath Ranges,28/12/12,390946,5862462,419,200,S,14,Schlerophyll,0.06,0.074,0.143,US
-49,Acheron Way,Acheron,2/1/2013,384016,5841290,385,40,NE,12,Schlerophyll,0.63,0.285,0.486,US
-50,Acheron Way,Acheron,2/1/2013,,,,50,NE,21,Open forest,0.2,0.14,0.429,US
-51,Mt Margaret road,Mt Margaret,3/1/2013,395436,5853417,1093,230,SW,33,Open forest,0.62,1,1,TOF
-52,Mt Margaret road,Mt Margaret,3/1/2013,394893,5853744,1071,250,SW,17,Open forest,0.6,1,1,TOF
-53,Mt Margaret road,Mt Margaret,3/1/2013,394243,5854216,1110,110,E,20,Open forest,0.6,1,1,US
+plot_id,site,date,elevation,aspect,direction,slope,forest_type,fire_intensity,prop_top_kill_BA,prop_top_kill_N,seedling_composition
+1,Beeches,31/10/12,754,180,S,38,CTR,0.29,0.59,0.914,MF
+2,Cambarville,14/11/12,915,260,N,8,TOF,0.2,0.14,0.803,TOF
+3,Cambarville,14/11/12,914,150,SE,5,TOF,0.24,0.184,0.643,US
+4,Cambarville,14/11/12,918,110,E,3,MF,0.08,0.036,0.125,None
+5,Mt Margaret,15/11/12,1064,140,SE,32,CTR,0.68,1,1,MF
+6,Mt Margaret,15/11/12,1058,290,NW,18,MF,0.67,1,1,MF
+7,Cambarville,19/11/12,913,330,NW,2,MF,0.28,0.301,0.865,TOF
+8,Acheron,20/11/12,736,160,S,20,MF,0.09,0.072,0.111,None
+9,Acheron,20/11/12,733,200,S,16,CTR,0.05,0.047,0.091,CTR
+10,Cambarville,20/11/12,921,160,S,8,TOF,0.83,1,1,TOF
+11,Cath Ranges,21/11/12,424,270,W,3,DSF,0.15,0.28,0.314,US
+12,Cath Ranges,21/11/12,409,260,W,2,DSF,0.16,0.134,0.34,US
+13,Cath Ranges,21/11/12,452,330,N,22,DSF,0.17,0.226,0.4,US
+14,Beeches,22/11/12,843,160,S,22,MF,0.81,1,1,TOF
+15,Beeches,22/11/12,770,90,E,34,CTR,0.13,0.307,0.341,None
+16,Cambarville,26/11/12,879,250,W,4,CTR,0.35,0.262,0.95,MF
+17,Cambarville,26/11/12,911,230,SW,12,MF,0.83,1,1,TOF
+18,Cath Ranges,27/11/12,395,220,SW,13,DSF,0.28,0.178,0.433,US
+19,Marysville,27/11/12,430,80,E,32,DSF,0.71,0.759,0.8,DSF
+20,Cath Ranges,28/11/12,447,280,E,56,DSF,0.22,0.06,0.306,US
+21,Cath Ranges,28/11/12,416,220,SW,29,DSF,0.15,0.078,0.15,US
+22,Cath Ranges,28/11/12,451,20,N,37,DSF,0.89,0.842,0.895,DSF
+23,Cath Ranges,28/11/12,466,50,NE,30,DSF,0.67,0.546,0.738,DSF
+24,Acheron,29/11/12,443,20,N,13,DSF,0.48,0.143,0.371,US
+25,Acheron,29/11/12,510,200,S,5,TOF,0.29,0.39,0.725,US
+26,Acheron,3/12/2012,412,60,NE,22,TOF,0.21,0.186,0.638,US
+27,Mt Margaret,3/12/2012,1117,200,S,8,TOF,0.78,1,1,TOF
+28,Cambarville,5/12/2012,886,250,W,2,MF,0.83,1,1,TOF
+29,Cambarville,5/12/2012,872,160,S,1,CTR,0.88,1,1,TOF
+30,Cambarville,5/12/2012,883,80,E,12,CTR,0.36,0.394,0.927,TOF
+31,Beeches,12/12/2012,754,230,SW,35,CTR,0.56,0.823,0.982,TOF
+32,Beeches,12/12/2012,803,180,S,4,CTR,0.13,0.834,0.386,US
+33,Mt Margaret,13/12/12,1109,210,S,15,TOF,0.9,1,1,TOF
+34,Marysville,13/12/12,484,220,SW,28,DSF,0.42,0.468,0.689,DSF
+35,Acheron,17/12/12,459,40,NE,14,TOF,0.32,0.162,0.766,US
+36,Marysville,17/12/12,460,270,W,28,DSF,0.6,0.335,0.545,DSF
+37,Beeches,18/12/12,815,260,W,28,MF,0.83,1,1,US
+38,Beeches,18/12/12,840,220,SW,27,MF,0.73,1,1,TOF
+39,Mt Margaret,19/12/12,1092,180,S,22,MF,0.67,1,1,TOF
+40,Marysville,19/12/12,514,100,E,24,DSF,0.59,0.439,0.615,DSF
+41,Marysville,19/12/12,395,350,N,1,DSF,0.38,0.372,0.667,US
+42,Cambarville,20/12/12,888,300,NW,4,TOF,0.21,0.149,0.643,TOF
+43,Cambarville,20/12/12,858,210,SW,7,TOF,0.18,0.167,0.569,US
+44,Acheron,27/12/12,439,70,E,32,TOF,0.24,0.066,0.595,US
+45,Acheron,27/12/12,440,50,NE,29,TOF,0.24,0.138,0.587,US
+46,Cath Ranges,28/12/12,380,70,E,2,DSF,0.3,0.249,0.558,US
+47,Cath Ranges,28/12/12,555,210,S,25,DSF,0.45,0.313,0.459,DSF
+48,Cath Ranges,28/12/12,419,200,S,14,DSF,0.06,0.074,0.143,US
+49,Acheron,2/1/2013,385,40,NE,12,DSF,0.63,0.285,0.486,US
+50,Acheron,2/1/2013,,50,NE,21,TOF,0.2,0.14,0.429,US
+51,Mt Margaret,3/1/2013,1093,230,SW,33,TOF,0.62,1,1,TOF
+52,Mt Margaret,3/1/2013,1071,250,SW,17,TOF,0.6,1,1,TOF
+53,Mt Margaret,3/1/2013,1110,110,E,20,TOF,0.6,1,1,US
